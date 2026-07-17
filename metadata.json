@@ -1,0 +1,8 @@
+{
+  "name": "Cognix Agency CRM",
+  "description": "Internal AI-powered CRM for Cognix Agency to manage leads, qualification, and sales operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
